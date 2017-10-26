@@ -1,0 +1,4 @@
+#Wed Oct 25 21:56:27 PDT 2017
+base.0=D\:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+renamed.0=classes.dex
+file.0=D\:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1\\classes.dex
