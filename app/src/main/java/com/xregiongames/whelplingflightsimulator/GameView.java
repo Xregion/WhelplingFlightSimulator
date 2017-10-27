@@ -1,5 +1,6 @@
 package com.xregiongames.whelplingflightsimulator;
 
+import android.app.Activity;
 import android.content.Context;
 import android.graphics.BitmapFactory;
 import android.graphics.Canvas;
@@ -7,6 +8,7 @@ import android.graphics.Color;
 import android.graphics.Paint;
 import android.graphics.Point;
 import android.graphics.Rect;
+import android.util.DisplayMetrics;
 import android.util.Log;
 import android.view.Display;
 import android.view.MotionEvent;
@@ -34,10 +36,9 @@ public class GameView extends SurfaceView implements Runnable{
     Rect floor;
 
     Player player;
-    boolean hopped;
     boolean gameOver;
 
-    Obstacle [] obstacles = new Obstacle[2];
+    Obstacle [] obstacles = new Obstacle[10];
 
     public GameView(Context context) {
         super(context);
@@ -49,16 +50,30 @@ public class GameView extends SurfaceView implements Runnable{
         Display display = wm.getDefaultDisplay();
         Point size = new Point();
         display.getSize(size);
-        int width = size.x;
-        int height = size.y;
-        floor = new Rect(0, height, width, height);
+        int phoneWidth = size.x;
+        int phoneHeight = size.y;
+        DisplayMetrics dm = new DisplayMetrics();
+        ((Activity)context).getWindowManager().getDefaultDisplay().getMetrics(dm);
+        int screenWidth=dm.widthPixels;
+        int screenheight=dm.heightPixels;
+        double wi=(double)screenWidth/(double)dm.xdpi;
+        double hi=(double)screenheight/(double)dm.ydpi;
+        floor = new Rect(0, phoneHeight, phoneWidth, phoneHeight);
 
         player = new Player(BitmapFactory.decodeResource(this.getResources(), R.drawable.flappybird));
-        obstacles[0] = new Obstacle(BitmapFactory.decodeResource(this.getResources(), R.drawable.pipe), 1000, 700);
-        obstacles[1] = new Obstacle(BitmapFactory.decodeResource(this.getResources(), R.drawable.upsidedownpipe), 2000, 0);
+        //TODO: FIND THE BOTTOM OF SCREEN
+        obstacles[0] = new Obstacle(BitmapFactory.decodeResource(this.getResources(), R.drawable.pipe), 1000, 1100);
+        obstacles[1] = new Obstacle(BitmapFactory.decodeResource(this.getResources(), R.drawable.upsidedownpipe), 1000, (int)hi);
+        obstacles[2] = new Obstacle(BitmapFactory.decodeResource(this.getResources(), R.drawable.pipe), 1500, 1100);
+        obstacles[3] = new Obstacle(BitmapFactory.decodeResource(this.getResources(), R.drawable.upsidedownpipe), 1500, (int)hi);
+        obstacles[4] = new Obstacle(BitmapFactory.decodeResource(this.getResources(), R.drawable.pipe), 2000, 1100);
+        obstacles[5] = new Obstacle(BitmapFactory.decodeResource(this.getResources(), R.drawable.upsidedownpipe), 2000, (int)hi);
+        obstacles[6] = new Obstacle(BitmapFactory.decodeResource(this.getResources(), R.drawable.pipe), 2500, 1100);
+        obstacles[7] = new Obstacle(BitmapFactory.decodeResource(this.getResources(), R.drawable.upsidedownpipe), 2500, (int)hi);
+        obstacles[8] = new Obstacle(BitmapFactory.decodeResource(this.getResources(), R.drawable.pipe), 3000, 1100);
+        obstacles[9] = new Obstacle(BitmapFactory.decodeResource(this.getResources(), R.drawable.upsidedownpipe), 3000, (int)hi);
 
         isPlaying = true;
-        hopped = false;
         gameOver = false;
     }
 
@@ -82,10 +97,9 @@ public class GameView extends SurfaceView implements Runnable{
     }
 
     void update() {
-        if (hopped && !player.getIsDead()) {
+        if (player.getIsJumping() && !player.getIsDead()) {
             player.hop();
-            hopped = false;
-        } else if (!hopped)
+        } else if (!player.getIsJumping())
             player.setPlayerPositionY(gravity);
 
         player.setColliderBounds();
@@ -95,10 +109,8 @@ public class GameView extends SurfaceView implements Runnable{
                 gameOver = true;
                 return;
             } else if (player.getPlayerPositionY() < 0) {
-                Log.i("Player Pos", String.valueOf(player.getPlayerPositionY()));
                 player.setPlayerPositionY(-player.getPlayerPositionY());
                 player.setColliderBounds();
-                Log.i("Player Pos", String.valueOf(player.getPlayerPositionY()));
             }
             for (Obstacle obstacle : obstacles) {
                 obstacle.update();
@@ -121,8 +133,13 @@ public class GameView extends SurfaceView implements Runnable{
             paint.setColor(Color.argb(255,  255, 0, 0));
             //canvas.drawRect(player.getCollider(), paint);
             for (Obstacle obstacle : obstacles) {
+                if (obstacle.getObstaclePositionX() < 0 - obstacle.getWidth()) {
+                    //TODO: Fix object pooling
+                    obstacle.setObstaclePositionX(obstacles[obstacles.length - 1].getObstaclePositionX() + 500);
+                }
                 canvas.drawBitmap(obstacle.getObstacle(), obstacle.getObstaclePositionX(), obstacle.getObstaclePositionY(), paint);
             }
+
             canvas.drawBitmap(player.getPlayer(), player.playerPositionX, player.getPlayerPositionY(), paint);
             if (gameOver) {
                 paint.setTextSize(100);
@@ -165,8 +182,7 @@ public class GameView extends SurfaceView implements Runnable{
                     }
                     gameOver = false;
                 } else
-                    hopped = true;
-
+                    player.setIsJumping(true);
                 break;
         }
         return true;

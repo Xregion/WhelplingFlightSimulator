@@ -2,7 +2,6 @@ package com.xregiongames.whelplingflightsimulator;
 
 import android.graphics.Bitmap;
 import android.graphics.Rect;
-import android.util.Log;
 
 /**
  * Created by Kyle on 10/25/2017.
@@ -21,18 +20,29 @@ public class Player {
     private int width;
     private int height;
     private boolean isDead;
-    private float hopAmount = 300;
+    private boolean isJumping;
+    private float velocity = 30;
+    private float currentJumpHeight = 0;
+    private float maxJump = 300;
 
     public Player(Bitmap player) {
         this.player = player;
         isDead = false;
+        isJumping = false;
         playerPositionY = 0;
         collider = new Rect();
         setColliderBounds();
     }
 
     void hop () {
-        playerPositionY -= hopAmount;
+        if (currentJumpHeight < maxJump) {
+            isJumping = true;
+            playerPositionY -= velocity;
+            currentJumpHeight += velocity;
+        } else {
+            currentJumpHeight = 0;
+            isJumping = false;
+        }
     }
 
     public int getPlayerPositionY() {
@@ -72,5 +82,14 @@ public class Player {
 
     public void die() {
         isDead = true;
+        isJumping = false;
+    }
+
+    public boolean getIsJumping() {
+        return isJumping;
+    }
+
+    public void setIsJumping(boolean jumping) {
+        isJumping = jumping;
     }
 }

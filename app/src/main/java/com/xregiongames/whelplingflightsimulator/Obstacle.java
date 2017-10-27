@@ -41,8 +41,14 @@ public class Obstacle {
         return obstacle;
     }
 
+    public int getWidth() { return obstacle.getWidth(); }
+
     public int getObstaclePositionX() {
         return obstaclePositionX;
+    }
+
+    public void setObstaclePositionX(int positionX) {
+        obstaclePositionX = positionX;
     }
 
     public int getObstaclePositionY() {

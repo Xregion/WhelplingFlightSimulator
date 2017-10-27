@@ -5,24 +5,24 @@
     build-mode="COLD"
     density="420dpi"
     format="10"
-    ir-eligibility="FIELD_REMOVED"
+    ir-eligibility="FIELD_ADDED"
     plugin-version="3.0.0"
-    timestamp="1509009640838"
+    timestamp="1509095051064"
     token="8124237596490604760"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="104" />
+        duration="127" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="20" />
+        duration="31" />
     <task
         name="verifier"
-        duration="8" />
+        duration="3" />
 
     <artifact
         location="D:\Kyle\Documents\GitHub\WhelplingFlightSimulator\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
@@ -30,11 +30,11 @@
 
     <build
         build-mode="FULL"
-        timestamp="1509009432863"
+        timestamp="1509091639244"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="D:\Kyle\Documents\GitHub\WhelplingFlightSimulator\app\build\outputs\apk\debug\app-debug.apk"
-            type="SPLIT_MAIN" />
+            location="D:\Kyle\Documents\GitHub\WhelplingFlightSimulator\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
         <artifact
             location="D:\Kyle\Documents\GitHub\WhelplingFlightSimulator\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
@@ -43,9 +43,6 @@
             type="SPLIT" />
         <artifact
             location="D:\Kyle\Documents\GitHub\WhelplingFlightSimulator\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\Kyle\Documents\GitHub\WhelplingFlightSimulator\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
         <artifact
             location="D:\Kyle\Documents\GitHub\WhelplingFlightSimulator\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
@@ -68,11 +65,14 @@
         <artifact
             location="D:\Kyle\Documents\GitHub\WhelplingFlightSimulator\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
+        <artifact
+            location="D:\Kyle\Documents\GitHub\WhelplingFlightSimulator\app\build\outputs\apk\debug\app-debug.apk"
+            type="SPLIT_MAIN" />
     </build>
     <build
         build-mode="COLD"
-        ir-eligibility="FIELD_REMOVED"
-        timestamp="1509009640838"
+        ir-eligibility="FIELD_ADDED"
+        timestamp="1509095051064"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="D:\Kyle\Documents\GitHub\WhelplingFlightSimulator\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
