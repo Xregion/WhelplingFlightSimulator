@@ -2,6 +2,7 @@ package com.xregiongames.whelplingflightsimulator;
 
 import android.graphics.Bitmap;
 import android.graphics.Rect;
+import java.util.concurrent.ThreadLocalRandom;
 
 /**
  * Created by Kyle on 10/26/2017.
@@ -15,6 +16,7 @@ public class Obstacle {
     private int obstaclePositionY;
     private int originalPosX;
     private int originalPosY;
+    private static int moveSpeed;
     private int left;
     private int right;
     private int top;
@@ -33,8 +35,12 @@ public class Obstacle {
     }
 
     public void update() {
-        obstaclePositionX -= 10;
+        obstaclePositionX -= moveSpeed;
         setColliderBounds();
+    }
+
+    public void setMoveSpeed(int speed) {
+        moveSpeed = speed;
     }
 
     public Bitmap getObstacle () {
@@ -55,6 +61,19 @@ public class Obstacle {
         return obstaclePositionY;
     }
 
+    public void generateObstaclePositionY(Obstacle other, int bottomOfScreen) {
+        double randomNum = ThreadLocalRandom.current().nextDouble(0, 1);
+        double screenSpace = randomNum * bottomOfScreen;
+        double blankSpace = bottomOfScreen * 0.4;
+        int otherObstacleSpace = (int) (screenSpace + blankSpace)/*(bottomOfScreen * (0.4 + randomNum))*/;
+        obstaclePositionY = (int) screenSpace - height;
+        other.setObstaclePositionY(otherObstacleSpace);
+    }
+
+    void setObstaclePositionY(int positionY) {
+        obstaclePositionY = positionY;
+    }
+
     public void reset() {
         obstaclePositionX = originalPosX;
         obstaclePositionY = originalPosY;
@@ -64,7 +83,7 @@ public class Obstacle {
         return collider;
     }
 
-    public void setColliderBounds() {
+    void setColliderBounds() {
         width = obstacle.getWidth();
         height = obstacle.getHeight();
         left = obstaclePositionX;

@@ -2,9 +2,6 @@ package com.xregiongames.whelplingflightsimulator;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.text.Layout;
-import android.util.Log;
-import android.widget.ImageView;
 
 public class MainActivity extends AppCompatActivity {
 

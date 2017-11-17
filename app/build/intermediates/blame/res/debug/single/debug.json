@@ -108,12 +108,12 @@
         "source": "C:\\Users\\Kyle\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\90baa19d892853d826897fdcaeee3670\\res\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "D:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
-        "source": "C:\\Users\\Kyle\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\90baa19d892853d826897fdcaeee3670\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
-    },
-    {
         "merged": "D:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view_list_item.xml.flat",
         "source": "C:\\Users\\Kyle\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\90baa19d892853d826897fdcaeee3670\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Kyle\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\90baa19d892853d826897fdcaeee3670\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
         "merged": "D:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
@@ -160,12 +160,12 @@
         "source": "C:\\Users\\Kyle\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\90baa19d892853d826897fdcaeee3670\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
-        "merged": "D:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\Kyle\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\90baa19d892853d826897fdcaeee3670\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
         "merged": "D:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_48dp.png.flat",
         "source": "C:\\Users\\Kyle\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\90baa19d892853d826897fdcaeee3670\\res\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "D:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Kyle\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\90baa19d892853d826897fdcaeee3670\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
         "merged": "D:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_longpressed_holo.9.png.flat",
@@ -232,6 +232,10 @@
         "source": "C:\\Users\\Kyle\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\90baa19d892853d826897fdcaeee3670\\res\\drawable-xxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
+        "merged": "D:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\build\\intermediates\\res\\merged\\debug\\drawable_castle.png.flat",
+        "source": "D:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\src\\main\\res\\drawable\\castle.png"
+    },
+    {
         "merged": "D:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_default.xml.flat",
         "source": "C:\\Users\\Kyle\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\90baa19d892853d826897fdcaeee3670\\res\\color-v23\\abc_tint_default.xml"
     },
@@ -240,12 +244,12 @@
         "source": "C:\\Users\\Kyle\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\90baa19d892853d826897fdcaeee3670\\res\\drawable-xxhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
-        "merged": "D:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\build\\intermediates\\res\\merged\\debug\\drawable_flappybird.png.flat",
-        "source": "D:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\src\\main\\res\\drawable\\flappybird.png"
-    },
-    {
         "merged": "D:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Kyle\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\90baa19d892853d826897fdcaeee3670\\res\\drawable-xxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\build\\intermediates\\res\\merged\\debug\\drawable_flappybird.png.flat",
+        "source": "D:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\src\\main\\res\\drawable\\flappybird.png"
     },
     {
         "merged": "D:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
@@ -272,12 +276,12 @@
         "source": "C:\\Users\\Kyle\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\90baa19d892853d826897fdcaeee3670\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
     },
     {
-        "merged": "D:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
-        "source": "C:\\Users\\Kyle\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\90baa19d892853d826897fdcaeee3670\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
-    },
-    {
         "merged": "D:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\Kyle\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\90baa19d892853d826897fdcaeee3670\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\Kyle\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\90baa19d892853d826897fdcaeee3670\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
         "merged": "D:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
@@ -348,12 +352,12 @@
         "source": "C:\\Users\\Kyle\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\90baa19d892853d826897fdcaeee3670\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "D:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_light.xml.flat",
-        "source": "C:\\Users\\Kyle\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\90baa19d892853d826897fdcaeee3670\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
         "merged": "D:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\build\\intermediates\\res\\merged\\debug\\drawable_upsidedownpipe.png.flat",
         "source": "D:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\src\\main\\res\\drawable\\upsidedownpipe.png"
+    },
+    {
+        "merged": "D:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_light.xml.flat",
+        "source": "C:\\Users\\Kyle\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\90baa19d892853d826897fdcaeee3670\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
         "merged": "D:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
@@ -376,12 +380,12 @@
         "source": "C:\\Users\\Kyle\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\90baa19d892853d826897fdcaeee3670\\res\\layout\\abc_screen_content_include.xml"
     },
     {
-        "merged": "D:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
-        "source": "C:\\Users\\Kyle\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\f68d6fe41c7a8c9702baf27ff2487bf9\\res\\layout\\notification_template_big_media.xml"
-    },
-    {
         "merged": "D:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_16dp.png.flat",
         "source": "C:\\Users\\Kyle\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\90baa19d892853d826897fdcaeee3670\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\Kyle\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\f68d6fe41c7a8c9702baf27ff2487bf9\\res\\layout\\notification_template_big_media.xml"
     },
     {
         "merged": "D:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_material_dark.xml.flat",
@@ -428,12 +432,12 @@
         "source": "C:\\Users\\Kyle\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\90baa19d892853d826897fdcaeee3670\\res\\layout-v26\\abc_screen_toolbar.xml"
     },
     {
-        "merged": "D:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
-        "source": "C:\\Users\\Kyle\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\90baa19d892853d826897fdcaeee3670\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
-    },
-    {
         "merged": "D:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Kyle\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\90baa19d892853d826897fdcaeee3670\\res\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "C:\\Users\\Kyle\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\90baa19d892853d826897fdcaeee3670\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
     },
     {
         "merged": "D:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
@@ -664,12 +668,12 @@
         "source": "C:\\Users\\Kyle\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\90baa19d892853d826897fdcaeee3670\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "D:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "D:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
-    },
-    {
         "merged": "D:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
         "source": "C:\\Users\\Kyle\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\90baa19d892853d826897fdcaeee3670\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
         "merged": "D:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
@@ -716,12 +720,12 @@
         "source": "C:\\Users\\Kyle\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\7a076c1c4d1b112328ae839c9d578673\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
-        "merged": "D:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
-        "source": "C:\\Users\\Kyle\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\90baa19d892853d826897fdcaeee3670\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
-    },
-    {
         "merged": "D:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Kyle\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\90baa19d892853d826897fdcaeee3670\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\Kyle\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\90baa19d892853d826897fdcaeee3670\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
     },
     {
         "merged": "D:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
@@ -1368,6 +1372,10 @@
         "source": "C:\\Users\\Kyle\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\90baa19d892853d826897fdcaeee3670\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
+        "merged": "D:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\build\\intermediates\\res\\merged\\debug\\drawable_upsidedowncastle.png.flat",
+        "source": "D:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\src\\main\\res\\drawable\\upsidedowncastle.png"
+    },
+    {
         "merged": "D:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pipe.png.flat",
         "source": "D:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\src\\main\\res\\drawable\\pipe.png"
     },
@@ -1522,6 +1530,10 @@
     {
         "merged": "D:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
         "source": "C:\\Users\\Kyle\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\7a076c1c4d1b112328ae839c9d578673\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\build\\intermediates\\res\\merged\\debug\\drawable_babydragon.png.flat",
+        "source": "D:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\src\\main\\res\\drawable\\babydragon.png"
     },
     {
         "merged": "D:\\Kyle\\Documents\\GitHub\\WhelplingFlightSimulator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",

@@ -21,17 +21,34 @@ public class Player {
     private int height;
     private boolean isDead;
     private boolean isJumping;
-    private float velocity = 30;
+    private float velocity;
     private float currentJumpHeight = 0;
-    private float maxJump = 300;
+    private float maxJump;
 
     public Player(Bitmap player) {
         this.player = player;
         isDead = false;
         isJumping = false;
-        playerPositionY = 0;
+        playerPositionY = 600;
         collider = new Rect();
         setColliderBounds();
+    }
+
+    public void update(float gravity) {
+        if (getIsJumping() && !getIsDead()) {
+            hop();
+        } else if (!getIsJumping())
+            setPlayerPositionY(gravity);
+
+        setColliderBounds();
+    }
+
+    public void setMaxJump(float maxJump) {
+        this.maxJump = maxJump;
+    }
+
+    public void setVelocity(float velocity) {
+        this.velocity = velocity;
     }
 
     void hop () {
@@ -54,8 +71,9 @@ public class Player {
     }
 
     public void reset() {
-        playerPositionY = 500;
+        playerPositionY = 600;
         isDead = false;
+        currentJumpHeight = 0;
     }
 
     public Bitmap getPlayer () {
@@ -69,7 +87,7 @@ public class Player {
     public void setColliderBounds() {
         width = player.getWidth();
         height = player.getHeight();
-        left = playerPositionX;
+        left = playerPositionX + width / 3;
         right = playerPositionX + width;
         top = playerPositionY;
         bottom = playerPositionY + height;
