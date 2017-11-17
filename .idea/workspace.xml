@@ -11,38 +11,251 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11a51d28-3579-41c2-96e2-eeb14e7781ae" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/babydragon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/castle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/upsidedowncastle.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/11.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/15.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/16.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/17.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/19.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/20.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/21.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/22.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/23.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/24.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/25.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/26.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/27.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/28.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/29.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/30.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/31.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/32.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/33.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/34.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/35.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/36.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/37.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/38.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/39.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/40.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/41.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/42.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/43.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/44.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/45.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/46.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/47.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/48.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/49.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/50.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/51.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/52.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/53.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/54.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/55.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/56.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/57.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/58.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/59.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/60.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/61.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/62.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/63.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/64.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/65.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/66.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/67.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/68.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/69.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/7.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/71.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/72.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/73.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/74.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/75.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/76.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/77.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/78.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/79.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/8.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/81.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/android/support/compat/R$attr.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/android/support/compat/R$bool.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/android/support/compat/R$color.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/android/support/compat/R$dimen.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/android/support/compat/R$drawable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/android/support/compat/R$id.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/android/support/compat/R$integer.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/android/support/compat/R$layout.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/android/support/compat/R$string.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/android/support/compat/R$style.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/android/support/compat/R$styleable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/android/support/compat/R.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/android/support/fragment/R$attr.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/android/support/fragment/R$bool.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/android/support/fragment/R$color.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/android/support/fragment/R$dimen.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/android/support/fragment/R$drawable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/android/support/fragment/R$id.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/android/support/fragment/R$integer.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/android/support/fragment/R$layout.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/android/support/fragment/R$string.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/android/support/fragment/R$style.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/android/support/fragment/R$styleable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/android/support/fragment/R.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/android/support/mediacompat/R$attr.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/android/support/mediacompat/R$bool.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/android/support/mediacompat/R$color.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/android/support/mediacompat/R$dimen.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/android/support/mediacompat/R$drawable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/android/support/mediacompat/R$id.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/android/support/mediacompat/R$integer.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/android/support/mediacompat/R$layout.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/android/support/mediacompat/R$string.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/android/support/mediacompat/R$style.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/android/support/mediacompat/R$styleable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/android/support/mediacompat/R.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/com/android/tools/ir/dummy/slice_0.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/com/xregiongames/whelplingflightsimulator/BuildConfig.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/com/xregiongames/whelplingflightsimulator/GameView.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/com/xregiongames/whelplingflightsimulator/MainActivity.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/com/xregiongames/whelplingflightsimulator/Obstacle.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/com/xregiongames/whelplingflightsimulator/Player.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/com/xregiongames/whelplingflightsimulator/R$anim.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/com/xregiongames/whelplingflightsimulator/R$attr.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/com/xregiongames/whelplingflightsimulator/R$bool.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/com/xregiongames/whelplingflightsimulator/R$color.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/com/xregiongames/whelplingflightsimulator/R$dimen.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/com/xregiongames/whelplingflightsimulator/R$drawable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/com/xregiongames/whelplingflightsimulator/R$id.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/com/xregiongames/whelplingflightsimulator/R$integer.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/com/xregiongames/whelplingflightsimulator/R$layout.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/com/xregiongames/whelplingflightsimulator/R$mipmap.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/com/xregiongames/whelplingflightsimulator/R$string.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/com/xregiongames/whelplingflightsimulator/R$style.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/com/xregiongames/whelplingflightsimulator/R$styleable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/com/xregiongames/whelplingflightsimulator/R.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/86/android/arch/lifecycle/R.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/86/com/android/tools/ir/dummy/slice_1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/87/android/support/coreutils/R$attr.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/87/android/support/coreutils/R$bool.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/87/android/support/coreutils/R$color.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/87/android/support/coreutils/R$dimen.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/87/android/support/coreutils/R$drawable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/87/android/support/coreutils/R$id.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/87/android/support/coreutils/R$integer.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/87/android/support/coreutils/R$layout.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/87/android/support/coreutils/R$string.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/87/android/support/coreutils/R$style.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/87/android/support/coreutils/R$styleable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/87/android/support/coreutils/R.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/87/android/support/v4/R$attr.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/87/android/support/v4/R$bool.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/87/android/support/v4/R$color.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/87/android/support/v4/R$dimen.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/87/android/support/v4/R$drawable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/87/android/support/v4/R$id.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/87/android/support/v4/R$integer.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/87/android/support/v4/R$layout.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/87/android/support/v4/R$string.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/87/android/support/v4/R$style.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/87/android/support/v4/R$styleable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/87/android/support/v4/R.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/87/android/support/v7/appcompat/R$anim.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/87/android/support/v7/appcompat/R$attr.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/87/android/support/v7/appcompat/R$bool.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/87/android/support/v7/appcompat/R$color.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/87/android/support/v7/appcompat/R$dimen.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/87/android/support/v7/appcompat/R$drawable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/87/android/support/v7/appcompat/R$id.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/87/android/support/v7/appcompat/R$integer.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/87/android/support/v7/appcompat/R$layout.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/87/android/support/v7/appcompat/R$string.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/87/android/support/v7/appcompat/R$style.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/87/android/support/v7/appcompat/R$styleable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/87/android/support/v7/appcompat/R.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/87/com/android/tools/ir/dummy/slice_2.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/88/android/support/graphics/drawable/R$attr.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/88/android/support/graphics/drawable/R$bool.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/88/android/support/graphics/drawable/R$color.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/88/android/support/graphics/drawable/R$dimen.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/88/android/support/graphics/drawable/R$drawable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/88/android/support/graphics/drawable/R$id.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/88/android/support/graphics/drawable/R$integer.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/88/android/support/graphics/drawable/R$layout.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/88/android/support/graphics/drawable/R$string.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/88/android/support/graphics/drawable/R$style.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/88/android/support/graphics/drawable/R$styleable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/88/android/support/graphics/drawable/R.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/88/com/android/tools/ir/dummy/slice_3.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/89/com/android/tools/ir/dummy/slice_4.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/9.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/90/com/android/tools/ir/dummy/slice_5.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/91/com/android/tools/ir/dummy/slice_6.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/92/android/support/coreui/R$attr.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/92/android/support/coreui/R$bool.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/92/android/support/coreui/R$color.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/92/android/support/coreui/R$dimen.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/92/android/support/coreui/R$drawable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/92/android/support/coreui/R$id.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/92/android/support/coreui/R$integer.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/92/android/support/coreui/R$layout.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/92/android/support/coreui/R$string.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/92/android/support/coreui/R$style.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/92/android/support/coreui/R$styleable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/92/android/support/coreui/R.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/92/com/android/tools/ir/dummy/slice_7.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/93/android/support/graphics/drawable/animated/R$attr.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/93/android/support/graphics/drawable/animated/R$bool.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/93/android/support/graphics/drawable/animated/R$color.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/93/android/support/graphics/drawable/animated/R$dimen.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/93/android/support/graphics/drawable/animated/R$drawable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/93/android/support/graphics/drawable/animated/R$id.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/93/android/support/graphics/drawable/animated/R$integer.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/93/android/support/graphics/drawable/animated/R$layout.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/93/android/support/graphics/drawable/animated/R$string.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/93/android/support/graphics/drawable/animated/R$style.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/93/android/support/graphics/drawable/animated/R$styleable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/93/android/support/graphics/drawable/animated/R.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/93/com/android/tools/ir/dummy/slice_8.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/94/android/support/constraint/R$attr.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/94/android/support/constraint/R$id.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/94/android/support/constraint/R$styleable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/94/android/support/constraint/R.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/94/com/android/tools/ir/dummy/slice_9.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/1/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/10/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/11/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/12/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/13/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/14/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/15/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/16/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/2/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/3/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/4/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/5/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/6/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/7/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/8/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/9/classes.dex" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/classAnalysis.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskHistory.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskJars.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskJars.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/compat/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/compat/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreui/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreui/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreutils/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreutils/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/fragment/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/fragment/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/graphics/drawable/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/graphics/drawable/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/mediacompat/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/mediacompat/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v4/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v4/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$drawable.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xregiongames/whelplingflightsimulator/GameView.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xregiongames/whelplingflightsimulator/GameView.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xregiongames/whelplingflightsimulator/MainActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xregiongames/whelplingflightsimulator/MainActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xregiongames/whelplingflightsimulator/Obstacle.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xregiongames/whelplingflightsimulator/Obstacle.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xregiongames/whelplingflightsimulator/Player.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xregiongames/whelplingflightsimulator/Player.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xregiongames/whelplingflightsimulator/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xregiongames/whelplingflightsimulator/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xregiongames/whelplingflightsimulator/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xregiongames/whelplingflightsimulator/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xregiongames/whelplingflightsimulator/R$integer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xregiongames/whelplingflightsimulator/R$integer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xregiongames/whelplingflightsimulator/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xregiongames/whelplingflightsimulator/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xregiongames/whelplingflightsimulator/R$mipmap.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xregiongames/whelplingflightsimulator/R$mipmap.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xregiongames/whelplingflightsimulator/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xregiongames/whelplingflightsimulator/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xregiongames/whelplingflightsimulator/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xregiongames/whelplingflightsimulator/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xregiongames/whelplingflightsimulator/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xregiongames/whelplingflightsimulator/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/android/support/compat/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/android/support/compat/R$drawable.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/android/support/coreui/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/android/support/coreui/R$drawable.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/android/support/coreutils/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/android/support/coreutils/R$drawable.class" />
@@ -53,9 +266,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/android/support/v4/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/android/support/v4/R$drawable.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$drawable.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/xregiongames/whelplingflightsimulator/GameView.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/xregiongames/whelplingflightsimulator/GameView.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/xregiongames/whelplingflightsimulator/MainActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/xregiongames/whelplingflightsimulator/MainActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/xregiongames/whelplingflightsimulator/Obstacle.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/xregiongames/whelplingflightsimulator/Obstacle.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/xregiongames/whelplingflightsimulator/Player.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/xregiongames/whelplingflightsimulator/Player.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/xregiongames/whelplingflightsimulator/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/xregiongames/whelplingflightsimulator/R$drawable.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/xregiongames/whelplingflightsimulator/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/xregiongames/whelplingflightsimulator/R$id.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/xregiongames/whelplingflightsimulator/R$integer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/xregiongames/whelplingflightsimulator/R$integer.class" />
@@ -68,39 +278,12 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/debug/zip-cache/SlBQrJBL+Kn82vzk8PucLUyCvvE=" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/debug/zip-cache/SlBQrJBL+Kn82vzk8PucLUyCvvE=" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/resources-debug.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_pipe.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_pipe.png.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_upsidedownpipe.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_upsidedownpipe.png.flat" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_0.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_0.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_2.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_2.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_3.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_3.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_7.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_7.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_8.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_8.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/android/support/compat/R$drawable.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/android/support/compat/R$drawable.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/android/support/fragment/R$drawable.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/android/support/fragment/R$drawable.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/android/support/mediacompat/R$drawable.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/android/support/mediacompat/R$drawable.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/com/xregiongames/whelplingflightsimulator/GameView.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/com/xregiongames/whelplingflightsimulator/GameView.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/com/xregiongames/whelplingflightsimulator/MainActivity.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/com/xregiongames/whelplingflightsimulator/MainActivity.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/com/xregiongames/whelplingflightsimulator/Obstacle.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/com/xregiongames/whelplingflightsimulator/Obstacle.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/com/xregiongames/whelplingflightsimulator/Player.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/com/xregiongames/whelplingflightsimulator/Player.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/com/xregiongames/whelplingflightsimulator/R$drawable.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/com/xregiongames/whelplingflightsimulator/R$drawable.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/com/xregiongames/whelplingflightsimulator/R$id.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/com/xregiongames/whelplingflightsimulator/R$id.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/com/xregiongames/whelplingflightsimulator/R$integer.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/com/xregiongames/whelplingflightsimulator/R$integer.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/com/xregiongames/whelplingflightsimulator/R$layout.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/com/xregiongames/whelplingflightsimulator/R$layout.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/com/xregiongames/whelplingflightsimulator/R$mipmap.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/com/xregiongames/whelplingflightsimulator/R$mipmap.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/com/xregiongames/whelplingflightsimulator/R$string.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/com/xregiongames/whelplingflightsimulator/R$string.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/com/xregiongames/whelplingflightsimulator/R$style.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/com/xregiongames/whelplingflightsimulator/R$style.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/com/xregiongames/whelplingflightsimulator/R$styleable.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/com/xregiongames/whelplingflightsimulator/R$styleable.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/87/android/support/coreutils/R$drawable.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/87/android/support/coreutils/R$drawable.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/87/android/support/v4/R$drawable.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/87/android/support/v4/R$drawable.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/87/android/support/v7/appcompat/R$drawable.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/87/android/support/v7/appcompat/R$drawable.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/88/android/support/graphics/drawable/R$drawable.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/88/android/support/graphics/drawable/R$drawable.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/92/android/support/coreui/R$drawable.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/92/android/support/coreui/R$drawable.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/93/android/support/graphics/drawable/animated/R$drawable.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/93/android/support/graphics/drawable/animated/R$drawable.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/2/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/2/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/3/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/3/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/7/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/7/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/8/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/8/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/externalLibsDexMerger/debug/0/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/externalLibsDexMerger/debug/0/classes.dex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/android/support/compat/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/android/support/compat/R$drawable.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/android/support/coreui/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/android/support/coreui/R$drawable.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/android/support/coreutils/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/android/support/coreutils/R$drawable.class" />
@@ -111,9 +294,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/android/support/v4/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/android/support/v4/R$drawable.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/android/support/v7/appcompat/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/android/support/v7/appcompat/R$drawable.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/xregiongames/whelplingflightsimulator/GameView.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/xregiongames/whelplingflightsimulator/GameView.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/xregiongames/whelplingflightsimulator/MainActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/xregiongames/whelplingflightsimulator/MainActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/xregiongames/whelplingflightsimulator/Obstacle.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/xregiongames/whelplingflightsimulator/Obstacle.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/xregiongames/whelplingflightsimulator/Player.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/xregiongames/whelplingflightsimulator/Player.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/xregiongames/whelplingflightsimulator/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/xregiongames/whelplingflightsimulator/R$drawable.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/xregiongames/whelplingflightsimulator/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/xregiongames/whelplingflightsimulator/R$id.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/xregiongames/whelplingflightsimulator/R$integer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/xregiongames/whelplingflightsimulator/R$integer.class" />
@@ -126,9 +306,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/android/support/fragment/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/android/support/fragment/R$drawable.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/android/support/mediacompat/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/android/support/mediacompat/R$drawable.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/com/xregiongames/whelplingflightsimulator/GameView.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/com/xregiongames/whelplingflightsimulator/GameView.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/com/xregiongames/whelplingflightsimulator/MainActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/com/xregiongames/whelplingflightsimulator/MainActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/com/xregiongames/whelplingflightsimulator/Obstacle.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/com/xregiongames/whelplingflightsimulator/Obstacle.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/com/xregiongames/whelplingflightsimulator/Player.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/com/xregiongames/whelplingflightsimulator/Player.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/com/xregiongames/whelplingflightsimulator/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/com/xregiongames/whelplingflightsimulator/R$drawable.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/com/xregiongames/whelplingflightsimulator/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/com/xregiongames/whelplingflightsimulator/R$id.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/com/xregiongames/whelplingflightsimulator/R$integer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/com/xregiongames/whelplingflightsimulator/R$integer.class" />
@@ -144,44 +321,35 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/7/android/support/coreui/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/7/android/support/coreui/R$drawable.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/8/android/support/graphics/drawable/animated/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/8/android/support/graphics/drawable/animated/R$drawable.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/pipe.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/pipe.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/upsidedownpipe.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/upsidedownpipe.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/compat/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/compat/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/coreui/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/coreui/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/coreutils/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/coreutils/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/fragment/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/fragment/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/graphics/drawable/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/graphics/drawable/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/graphics/drawable/animated/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/graphics/drawable/animated/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/mediacompat/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/mediacompat/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v4/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v4/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/xregiongames/whelplingflightsimulator/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/xregiongames/whelplingflightsimulator/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/debug.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/debug.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/debug.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/debug.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/build-info/debug/build-info.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/build-info/debug/build-info.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/debug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/debug/dex-renamer-state.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/debug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/debug/file-input-save-data.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/debug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/debug/dex-renamer-state.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/debug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/debug/file-input-save-data.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/manifestChecker/manifest.crc" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/manifestChecker/manifest.crc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/manifestChecker/manifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/manifestChecker/manifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_0/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_0/dex-renamer-state.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_2/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_2/dex-renamer-state.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_3/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_3/dex-renamer-state.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_7/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_7/dex-renamer-state.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_8/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_8/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/instant-run/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifests/instant-run/debug/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/__content__.json" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/__content__.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/__content__.json" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/__content__.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/__content__.json" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/__content__.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/buildId.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/buildId.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/2/buildId.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/2/buildId.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/buildId.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/buildId.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/7/buildId.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/7/buildId.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/8/buildId.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/8/buildId.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/__content__.json" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/__content__.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/xregiongames/whelplingflightsimulator/GameView.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/xregiongames/whelplingflightsimulator/GameView.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/xregiongames/whelplingflightsimulator/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/xregiongames/whelplingflightsimulator/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/xregiongames/whelplingflightsimulator/Obstacle.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/xregiongames/whelplingflightsimulator/Obstacle.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/xregiongames/whelplingflightsimulator/Player.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/xregiongames/whelplingflightsimulator/Player.java" />
     </list>
     <ignored path="$PROJECT_DIR$/build/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -216,27 +384,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GameView.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="GameView.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/xregiongames/whelplingflightsimulator/GameView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2210">
-              <caret line="141" column="14" lean-forward="false" selection-start-line="141" selection-start-column="14" selection-end-line="141" selection-end-column="14" />
+            <state relative-caret-position="782">
+              <caret line="166" column="110" lean-forward="false" selection-start-line="166" selection-start-column="110" selection-end-line="166" selection-end-column="110" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Player.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Player.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/xregiongames/whelplingflightsimulator/Player.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1377">
+            <state relative-caret-position="1292">
               <caret line="89" column="43" lean-forward="false" selection-start-line="89" selection-start-column="43" selection-end-line="89" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1073#1074#0" expanded="true" />
-                <element signature="e#1111#1112#0" expanded="true" />
-                <element signature="e#1158#1159#0" expanded="true" />
-                <element signature="e#1198#1199#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -245,7 +409,7 @@
       <file leaf-file-name="Obstacle.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/xregiongames/whelplingflightsimulator/Obstacle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
+            <state relative-caret-position="663">
               <caret line="41" column="28" lean-forward="false" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -264,6 +428,11 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="D:\Kyle\Documents\wfs.jks" />
+    <option name="KEY_ALIAS" value="wfs" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -1987,12 +2156,12 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/xregiongames/whelplingflightsimulator/PlayerControls.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/xregiongames/whelplingflightsimulator/LevelCreator.java" />
-        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/../../../AppData/Local/Android/sdk/platforms/android-26/android.jar!/java/lang/Thread.class" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/xregiongames/whelplingflightsimulator/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/xregiongames/whelplingflightsimulator/Egg.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/xregiongames/whelplingflightsimulator/Obstacle.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/xregiongames/whelplingflightsimulator/Player.java" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/xregiongames/whelplingflightsimulator/GameView.java" />
       </list>
     </option>
@@ -2020,7 +2189,7 @@
     <panes>
       <pane id="ProjectPane" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -2064,10 +2233,28 @@
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WhelplingFlightSimulator" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="manifests" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidManifestsGroupNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2077,7 +2264,11 @@
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
     <property name="device.picker.selection" value="Nexus_5X_API_25" />
     <property name="android.profiler.active" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app" />
+    <property name="ExportApk.ApkPath" value="D:\Kyle\Documents\GitHub\WhelplingFlightSimulator\app" />
+    <property name="ExportApk.Flavors" value="" />
+    <property name="ExportApk.BuildType" value="release" />
+    <property name="ExportApk.SignV2" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="android.template.packageName">
@@ -2173,7 +2364,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1510957660658" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1510962666779" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -2221,7 +2412,7 @@
       </Profilers>
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1510957660658" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1510962666779" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -2253,27 +2444,6 @@
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
-      <method />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
       <method />
     </configuration>
     <configuration default="true" type="JarApplication" factoryName="JAR Application">
@@ -2404,7 +2574,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1510957660658" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1510962666782" />
       </method>
     </configuration>
     <list size="1">
@@ -2446,9 +2616,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
-      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.32962137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -2464,7 +2634,7 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -2499,14 +2669,86 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/xregiongames/whelplingflightsimulator/Player.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="89" column="43" lean-forward="false" selection-start-line="89" selection-start-column="43" selection-end-line="89" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/xregiongames/whelplingflightsimulator/Obstacle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="41" column="28" lean-forward="false" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1043#1044#0" expanded="true" />
+            <element signature="e#1076#1077#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/xregiongames/whelplingflightsimulator/GameView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2618">
+          <caret line="166" column="110" lean-forward="false" selection-start-line="166" selection-start-column="110" selection-end-line="166" selection-end-column="110" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/xregiongames/whelplingflightsimulator/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/xregiongames/whelplingflightsimulator/GameView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2397">
+          <caret line="141" column="14" lean-forward="false" selection-start-line="141" selection-start-column="14" selection-end-line="141" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/xregiongames/whelplingflightsimulator/Obstacle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="41" column="28" lean-forward="false" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1043#1044#0" expanded="true" />
+            <element signature="e#1076#1077#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/xregiongames/whelplingflightsimulator/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="89" column="43" lean-forward="false" selection-start-line="89" selection-start-column="43" selection-end-line="89" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/xregiongames/whelplingflightsimulator/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/xregiongames/whelplingflightsimulator/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1224">
           <caret line="81" column="31" lean-forward="false" selection-start-line="81" selection-start-column="31" selection-end-line="81" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1073#1074#0" expanded="true" />
-            <element signature="e#1111#1112#0" expanded="true" />
-            <element signature="e#1158#1159#0" expanded="true" />
-            <element signature="e#1198#1199#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2565,10 +2807,6 @@
           <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1073#1074#0" expanded="true" />
-            <element signature="e#1111#1112#0" expanded="true" />
-            <element signature="e#1158#1159#0" expanded="true" />
-            <element signature="e#1198#1199#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2587,10 +2825,6 @@
           <caret line="72" column="27" lean-forward="false" selection-start-line="72" selection-start-column="27" selection-end-line="72" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1073#1074#0" expanded="true" />
-            <element signature="e#1111#1112#0" expanded="true" />
-            <element signature="e#1158#1159#0" expanded="true" />
-            <element signature="e#1198#1199#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2629,10 +2863,6 @@
           <caret line="93" column="5" lean-forward="false" selection-start-line="93" selection-start-column="5" selection-end-line="93" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1073#1074#0" expanded="true" />
-            <element signature="e#1111#1112#0" expanded="true" />
-            <element signature="e#1158#1159#0" expanded="true" />
-            <element signature="e#1198#1199#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2671,10 +2901,6 @@
           <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1073#1074#0" expanded="true" />
-            <element signature="e#1111#1112#0" expanded="true" />
-            <element signature="e#1158#1159#0" expanded="true" />
-            <element signature="e#1198#1199#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2713,10 +2939,6 @@
           <caret line="43" column="30" lean-forward="false" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1073#1074#0" expanded="true" />
-            <element signature="e#1111#1112#0" expanded="true" />
-            <element signature="e#1158#1159#0" expanded="true" />
-            <element signature="e#1198#1199#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2755,10 +2977,6 @@
           <caret line="28" column="27" lean-forward="false" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1073#1074#0" expanded="true" />
-            <element signature="e#1111#1112#0" expanded="true" />
-            <element signature="e#1158#1159#0" expanded="true" />
-            <element signature="e#1198#1199#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2801,17 +3019,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="43" lean-forward="false" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-manifest">
-        <state />
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/../../../AppData/Local/Android/sdk/platforms/android-26/android.jar!/java/lang/Thread.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="580">
@@ -2830,7 +3037,7 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/xregiongames/whelplingflightsimulator/Egg.java" />
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/xregiongames/whelplingflightsimulator/Obstacle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
+        <state relative-caret-position="663">
           <caret line="41" column="28" lean-forward="false" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -2845,25 +3052,34 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/xregiongames/whelplingflightsimulator/GameView.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2210">
-          <caret line="141" column="14" lean-forward="false" selection-start-line="141" selection-start-column="14" selection-end-line="141" selection-end-column="14" />
-          <folding />
+        <state relative-caret-position="272">
+          <caret line="16" column="50" lean-forward="false" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+          <folding>
+            <element signature="e#591#609#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/xregiongames/whelplingflightsimulator/Player.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1377">
+        <state relative-caret-position="1292">
           <caret line="89" column="43" lean-forward="false" selection-start-line="89" selection-start-column="43" selection-end-line="89" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1073#1074#0" expanded="true" />
-            <element signature="e#1111#1112#0" expanded="true" />
-            <element signature="e#1158#1159#0" expanded="true" />
-            <element signature="e#1198#1199#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/xregiongames/whelplingflightsimulator/GameView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="166" column="110" lean-forward="false" selection-start-line="166" selection-start-column="110" selection-end-line="166" selection-end-column="110" />
+          <folding />
         </state>
       </provider>
     </entry>
