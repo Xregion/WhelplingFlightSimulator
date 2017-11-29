@@ -7,25 +7,19 @@ import android.graphics.Rect;
  * Created by Kyle on 10/25/2017.
  */
 
-public class Player {
+class Player {
 
     private Bitmap player;
     private Rect collider;
     final int playerPositionX = 400;
     private int playerPositionY;
-    private int left;
-    private int right;
-    private int top;
-    private int bottom;
-    private int width;
-    private int height;
     private boolean isDead;
     private boolean isJumping;
     private float velocity;
     private float currentJumpHeight = 0;
     private float maxJump;
 
-    public Player(Bitmap player) {
+    Player(Bitmap player) {
         this.player = player;
         isDead = false;
         isJumping = false;
@@ -34,7 +28,7 @@ public class Player {
         setColliderBounds();
     }
 
-    public void update(float gravity) {
+    void update(float gravity) {
         if (getIsJumping() && !getIsDead()) {
             hop();
         } else if (!getIsJumping())
@@ -43,15 +37,15 @@ public class Player {
         setColliderBounds();
     }
 
-    public void setMaxJump(float maxJump) {
+    void setMaxJump(float maxJump) {
         this.maxJump = maxJump;
     }
 
-    public void setVelocity(float velocity) {
+    void setVelocity(float velocity) {
         this.velocity = velocity;
     }
 
-    void hop () {
+    private void hop () {
         if (currentJumpHeight < maxJump) {
             isJumping = true;
             playerPositionY -= velocity;
@@ -62,52 +56,52 @@ public class Player {
         }
     }
 
-    public int getPlayerPositionY() {
+    int getPlayerPositionY() {
         return playerPositionY;
     }
 
-    public void setPlayerPositionY(float amount) {
+    void setPlayerPositionY(float amount) {
         playerPositionY += amount;
     }
 
-    public void reset() {
+    void reset() {
         playerPositionY = 600;
         isDead = false;
         currentJumpHeight = 0;
     }
 
-    public Bitmap getPlayer () {
+    Bitmap getPlayer () {
         return player;
     }
 
-    public Rect getCollider() {
+    Rect getCollider() {
         return collider;
     }
 
-    public void setColliderBounds() {
-        width = player.getWidth();
-        height = player.getHeight();
-        left = playerPositionX + width / 3;
-        right = playerPositionX + width;
-        top = playerPositionY;
-        bottom = playerPositionY + height;
+    void setColliderBounds() {
+        int width = player.getWidth();
+        int height = player.getHeight();
+        int left = playerPositionX + width / 3;
+        int right = playerPositionX + width;
+        int top = playerPositionY;
+        int bottom = playerPositionY + height;
         collider.set(left, top, right, bottom);
     }
 
-    public boolean getIsDead() {
+    boolean getIsDead() {
         return isDead;
     }
 
-    public void die() {
+    void die() {
         isDead = true;
         isJumping = false;
     }
 
-    public boolean getIsJumping() {
+    private boolean getIsJumping() {
         return isJumping;
     }
 
-    public void setIsJumping(boolean jumping) {
+    void setIsJumping(boolean jumping) {
         isJumping = jumping;
     }
 }

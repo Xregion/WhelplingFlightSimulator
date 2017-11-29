@@ -18,9 +18,15 @@ import android.view.SurfaceView;
  * Created by Kyle on 10/25/2017.
  */
 
-public class GameView extends SurfaceView implements Runnable{
+public class GameView extends SurfaceView implements Runnable {
 
     final int MS_PER_UPDATE = 33;
+    final int GRAVITY_DIVISOR = 90;
+    final int MAX_JUMP_DIVISOR = 8;
+    final int VELOCITY_DIVISOR = 60;
+    final int PIPE_SPEED_DIVISOR = 108;
+    final int START_POSITION = 1250;
+    final double DISPLACEMENT_DIVISOR = 1.2;
 
     Thread gameThread = null;
 
@@ -54,23 +60,21 @@ public class GameView extends SurfaceView implements Runnable{
         ((Activity)context).getWindowManager().getDefaultDisplay().getMetrics(dm);
         screenWidth = dm.widthPixels;
         int screenHeight = dm.heightPixels;
-        Log.i("Height", String.valueOf(screenHeight));
-        Log.i("Width", String.valueOf(screenWidth));
         bottomOfScreen = (int) (screenHeight / 1.6f);
         floor = new Rect(0, screenHeight, screenWidth, screenHeight);
-        gravity = screenHeight / 90;
+        gravity = screenHeight / GRAVITY_DIVISOR;
 
-        bottomDisplacement = topDisplacement = (int) (screenWidth / 1.5);
-        int startPos = 1250;
-        int nextPos = 1250 + (int) (screenWidth / 1.5);
+        bottomDisplacement = topDisplacement = getDisplacement();
+        int startPos = START_POSITION;
+        int nextPos = START_POSITION + getDisplacement();
         player = new Player(BitmapFactory.decodeResource(this.getResources(), R.drawable.babydragon));
-        player.setMaxJump(screenHeight / 8);
-        player.setVelocity(screenHeight / 60);
-        bottomPipes[0] = new Obstacle(BitmapFactory.decodeResource(this.getResources(), R.drawable.castle), startPos, bottomOfScreen);
-        topPipes[0] = new Obstacle(BitmapFactory.decodeResource(this.getResources(), R.drawable.upsidedowncastle), startPos, -750);
-        bottomPipes[1] = new Obstacle(BitmapFactory.decodeResource(this.getResources(), R.drawable.castle), nextPos, bottomOfScreen);
-        topPipes[1] = new Obstacle(BitmapFactory.decodeResource(this.getResources(), R.drawable.upsidedowncastle), nextPos, -750);
-        bottomPipes[0].setMoveSpeed(screenWidth / 108);
+        player.setMaxJump(screenHeight / MAX_JUMP_DIVISOR);
+        player.setVelocity(screenHeight / VELOCITY_DIVISOR);
+        bottomPipes[0] = new Obstacle(BitmapFactory.decodeResource(this.getResources(), R.drawable.castle), startPos);
+        topPipes[0] = new Obstacle(BitmapFactory.decodeResource(this.getResources(), R.drawable.upsidedowncastle), startPos);
+        bottomPipes[1] = new Obstacle(BitmapFactory.decodeResource(this.getResources(), R.drawable.castle), nextPos);
+        topPipes[1] = new Obstacle(BitmapFactory.decodeResource(this.getResources(), R.drawable.upsidedowncastle), nextPos);
+        bottomPipes[0].setMoveSpeed(screenWidth / PIPE_SPEED_DIVISOR);
 
         for (int i = 0; i < topPipes.length; i++) {
             topPipes[i].generateObstaclePositionY(bottomPipes[i], bottomOfScreen);
@@ -145,10 +149,10 @@ public class GameView extends SurfaceView implements Runnable{
             for (Obstacle obstacle : topPipes) {
                 if (obstacle.getObstaclePositionX() < 0 - obstacle.getWidth()) {
                     obstacle.setObstaclePositionX(topPipes[topPipes.length - 1].getObstaclePositionX() + topDisplacement);
-                    topDisplacement += (int) (screenWidth / 1.5);
+                    topDisplacement += getDisplacement();
                     obstacle.generateObstaclePositionY(bottomPipes[i], bottomOfScreen);
                     if (obstacle == topPipes[topPipes.length - 1])
-                        topDisplacement = (int) (screenWidth / 1.5);
+                        topDisplacement = getDisplacement();
                 }
                 canvas.drawBitmap(obstacle.getObstacle(), obstacle.getObstaclePositionX(), obstacle.getObstaclePositionY(), paint);
                 i++;
@@ -157,9 +161,9 @@ public class GameView extends SurfaceView implements Runnable{
             for (Obstacle obstacle : bottomPipes) {
                 if (obstacle.getObstaclePositionX() < 0 - obstacle.getWidth()) {
                     obstacle.setObstaclePositionX(bottomPipes[bottomPipes.length - 1].getObstaclePositionX() + bottomDisplacement);
-                    bottomDisplacement += (int) (screenWidth / 1.5);
+                    bottomDisplacement += getDisplacement();
                     if (obstacle == bottomPipes[bottomPipes.length - 1])
-                        bottomDisplacement = (int) (screenWidth / 1.5);
+                        bottomDisplacement = getDisplacement();
                 }
                 canvas.drawBitmap(obstacle.getObstacle(), obstacle.getObstaclePositionX(), obstacle.getObstaclePositionY(), paint);
             }
@@ -210,12 +214,16 @@ public class GameView extends SurfaceView implements Runnable{
                     for (int i = 0; i < topPipes.length; i++) {
                         topPipes[i].generateObstaclePositionY(bottomPipes[i], bottomOfScreen);
                     }
-                    bottomDisplacement = topDisplacement = (int) (screenWidth / 1.5);
+                    bottomDisplacement = topDisplacement = getDisplacement();
                     gameOver = false;
                 } else
                     player.setIsJumping(true);
                 break;
         }
         return true;
+    }
+
+    private int getDisplacement() {
+        return (int) (screenWidth / DISPLACEMENT_DIVISOR);
     }
 }
